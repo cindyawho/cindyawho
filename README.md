@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cindyawho
 - 👀 I’m primarily interested in front-end web development but enjoy coding in general!
-- 🌱 I’m currently learning React through college classes, and learning CSS tricks through The Odin Project.
+- 🌱 I’m currently learning React through college classes, and learning CSS tricks through The Odin Project. I just joined HomeTeam GameDevs so I'll be learning more about game development with JavaScript!
 - 💞️ I’m looking to collaborate on projects that focus on Education, Math, or Learning. 
 - 📫 How to reach me: feel free to contact me at cindyandcode@gmail.com
 - 😄 Pronouns: she/her/hers
