@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Cindy Andrade.<br>👀 I’m primarily interested in front-end web development but enjoy coding in general!<br>🌱 I’m currently completing React and React Native prototypes with the Snap Engineering Academy. I'm learning more about game development with JavaScript with HomeTeam GameDev!<br>💞️ I’m looking to collaborate on projects that focus on Education, Math, or Learning.<br>📫 How to reach me: feel free to contact me at cindyandcode@gmail.com<br>😄 Pronouns: she/her/hers<br>⚡ Fun fact: I love reading and historical musicals! My favorites are the Percy Jackson series, Epic: The Musical, and Six: The Musical.
+👋 Hi, I’m Cindy Andrade.<br>👀 I’m primarily interested in front-end web development but enjoy coding in general!<br>🌱 I worked on React and React Native prototypes with the Snap Engineering Academy, and am currently working on personal projects through Hackathons and class projects.<br>💞️ I’m looking to collaborate on projects that focus on Education, Math, or Learning.<br>📫 How to reach me: feel free to contact me at cindyandcode@gmail.com<br>😄 Pronouns: she/her/hers<br>⚡ Fun fact: I love reading and historical musicals! My favorites are the Percy Jackson series, Epic: The Musical, and Six: The Musical.
 
 
 ## 🌐 Socials:
